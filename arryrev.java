@@ -1,7 +1,4 @@
-package player;
-
 import java.util.Scanner;
-
 public class arryrev {
 public static void main(String[] args) {
 	Scanner rd=new Scanner(System.in);
