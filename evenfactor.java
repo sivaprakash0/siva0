@@ -1,5 +1,3 @@
-package player;
-
 public class evenfactor {
 public static void main(String[] args) {
 	int no=Integer.parseInt(args[0]);
